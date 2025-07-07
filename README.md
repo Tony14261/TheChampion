@@ -43,7 +43,7 @@ Welcome to **The Champion Game**! This guide will help you set up matches, under
 ## 📜 **Viewing Match History**
 
 - **Where:**  
-  - Match history is stored *in memory* and in `the*champion*data.json`.
+  - Match history is stored *in memory* and in `the_champion_data.json`.
 - **What’s Displayed:**  
   - **Match ID**
   - **Match Name** (e.g., *Team A vs. Team B*)
@@ -78,7 +78,7 @@ Welcome to **The Champion Game**! This guide will help you set up matches, under
 
 ## 💾 **Saving & Loading Data**
 
-- All match data is *automatically saved* and can be *loaded* from `the*champion*data.json`.
+- All match data is *automatically saved* and can be *loaded* from `the_champion_data.json`.
 
 ---
 
